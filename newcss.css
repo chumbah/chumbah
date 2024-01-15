@@ -1,0 +1,22 @@
+.row {
+    padding-top: 10px;
+    padding-left: 20px; 
+    column-gap: 15px;
+    background-color:rgb(176, 186, 196);
+}
+.icon1 {
+    float: right;
+    padding: 20px;
+}
+.card {
+    padding-top: 20px;
+    width: 100%;
+}
+.socialcontent{
+    float: right;
+    padding-right: 20px;
+    
+}
+.feedback{
+    background-color: cadetblue;
+}

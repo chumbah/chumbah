@@ -10,3 +10,10 @@ if (sum < 20 || sum === 20 ) {
 }else {
     console.log("out!")
 }
+
+
+
+
+function payments(){
+    alert("WE CURRENTLY ACCEPT PAYMENTS MADE THROUGH: \n PAYPAL ( most popular) \n BANK TRANSFER \n CASHAPP \n VENNMO ")
+ }
