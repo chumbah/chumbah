@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chumbah
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning software development and systems programming
+- 👋 Hi, I’m Alex
+- 👀 I love coding.
+- 🌱 I am an aspiring Full-stack Software developer
 - 💞️ I’m looking to collaborate on any project to boost my skills
 
