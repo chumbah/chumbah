@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Kipchumba</h1>
 <h3 align="center">Full-Stack Developer | MERN / PERN Stack Learner | Building Real Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/chumbah">
-    <img src="https://komarev.com/ghpvc/?username=chumbah&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+
 
 ---
 
